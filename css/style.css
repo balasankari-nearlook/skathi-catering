@@ -2168,3 +2168,20 @@ body {
 .back-top-btn:hover i {
     color: #fff;
 }
+
+.tc{
+    color:#f15f2a;
+    font-family: "Pinyon Script";
+    font-weight: 600;
+    line-height: 64px;
+}
+.text{
+    color:#151515;
+    font-weight: 600;
+    text-align: justify;
+    ont-family: 'Josefin Sens', sans-serif;
+}
+.symbol{
+    color:#f15f2a;
+    size:150px;
+}
